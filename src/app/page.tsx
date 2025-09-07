@@ -116,7 +116,7 @@ export default function HomePage() {
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
                   Professional, compassionate disability support services designed to help you live independently and achieve your goals. 
-                  We're here to support your journey every step of the way.
+                  We&apos;re here to support your journey every step of the way.
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -347,7 +347,7 @@ export default function HomePage() {
               Why Choose NDIS Care?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We're committed to providing the highest quality disability support services with a focus on your wellbeing and independence.
+                We&apos;re committed to providing the highest quality disability support services with a focus on your wellbeing and independence.
             </p>
           </div>
           
@@ -376,7 +376,7 @@ export default function HomePage() {
               What Our Clients Say
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Hear from the people we've had the privilege to support on their NDIS journey.
+                Hear from the people we&apos;ve had the privilege to support on their NDIS journey.
             </p>
           </div>
           
@@ -408,7 +408,7 @@ export default function HomePage() {
                   
                   {/* Quote */}
                   <blockquote className="text-gray-600 leading-relaxed">
-                    "{testimonial.content}"
+                    &ldquo;{testimonial.content}&rdquo;
                   </blockquote>
                   
                   {/* Quote Icon */}

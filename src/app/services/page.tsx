@@ -237,7 +237,7 @@ export default function Services() {
                           </div>
                           
                           <div>
-                            <h4 className="text-lg font-semibold text-gray-900 mb-4">What's Included:</h4>
+                            <h4 className="text-lg font-semibold text-gray-900 mb-4">What&apos;s Included:</h4>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                               {service.features.map((feature, featureIndex) => (
                                 <div key={featureIndex} className="flex items-start space-x-3">
@@ -300,7 +300,7 @@ export default function Services() {
               Why Choose Our Services?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We're committed to providing the highest quality disability support services with a focus on your wellbeing and independence.
+                We&apos;re committed to providing the highest quality disability support services with a focus on your wellbeing and independence.
             </p>
           </div>
           

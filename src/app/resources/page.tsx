@@ -146,7 +146,7 @@ export default function Resources() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
               Everything you need to know about the NDIS, from understanding your plan to accessing the right services. 
-              We're here to help you navigate your NDIS journey.
+                We&apos;re here to help you navigate your NDIS journey.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" className="text-lg px-8 py-6">

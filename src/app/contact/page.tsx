@@ -70,7 +70,7 @@ export default function Contact() {
                 <CardHeader>
                   <CardTitle className="text-2xl">Send us a Message</CardTitle>
                   <CardDescription>
-                    Fill out the form below and we'll get back to you within 24 hours.
+                    Fill out the form below and we&apos;ll get back to you within 24 hours.
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -78,7 +78,7 @@ export default function Contact() {
                     <div className="text-center py-8">
                       <CheckCircle className="h-16 w-16 text-green-500 mx-auto mb-4" />
                       <h3 className="text-xl font-semibold text-gray-900 mb-2">Message Sent!</h3>
-                      <p className="text-gray-600">Thank you for your message. We'll get back to you soon.</p>
+                      <p className="text-gray-600">Thank you for your message. We&apos;ll get back to you soon.</p>
                     </div>
                   ) : (
                     <form onSubmit={handleSubmit} className="space-y-6">
@@ -157,7 +157,7 @@ export default function Contact() {
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Contact Information</h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  We're here to help you navigate your NDIS journey. Reach out to us through any of the channels below.
+                  We&apos;re here to help you navigate your NDIS journey. Reach out to us through any of the channels below.
                 </p>
               </div>
 
@@ -359,7 +359,7 @@ export default function Contact() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Simply contact us through this form, phone, or email. We'll arrange a free consultation to discuss your needs and how we can help.
+                  Simply contact us through this form, phone, or email. We&apos;ll arrange a free consultation to discuss your needs and how we can help.
                 </p>
               </CardContent>
             </Card>
@@ -375,7 +375,7 @@ export default function Contact() {
               Ready to Get Started?
             </h2>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
-              Don't wait to start your NDIS journey. Contact us today for a free consultation and discover how we can support you.
+                Don&apos;t wait to start your NDIS journey. Contact us today for a free consultation and discover how we can support you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary" className="text-lg px-8 py-6">

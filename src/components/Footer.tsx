@@ -56,7 +56,7 @@ export default function Footer() {
             </div>
             <p className="text-gray-300 leading-relaxed">
               Providing compassionate, professional NDIS services to help you live your best life. 
-              We're committed to supporting your independence and wellbeing.
+              We&apos;re committed to supporting your independence and wellbeing.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social) => {

@@ -280,7 +280,7 @@ export default function About() {
               Our Impact
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Numbers that reflect our commitment to excellence and the positive impact we've made in our community.
+                Numbers that reflect our commitment to excellence and the positive impact we&apos;ve made in our community.
             </p>
           </div>
           
@@ -307,7 +307,7 @@ export default function About() {
                 Why Choose NDIS Care Services?
               </h2>
               <p className="text-xl text-gray-600 leading-relaxed">
-                We're more than just a service provider – we're your partners in achieving your goals and living your best life.
+                We&apos;re more than just a service provider – we&apos;re your partners in achieving your goals and living your best life.
               </p>
               
               <div className="space-y-4">
@@ -367,7 +367,7 @@ export default function About() {
               Ready to Work With Us?
             </h2>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
-              Let's discuss how we can support you in achieving your goals. Contact us today for a free consultation.
+                Let&apos;s discuss how we can support you in achieving your goals. Contact us today for a free consultation.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary" className="text-lg px-8 py-6">
